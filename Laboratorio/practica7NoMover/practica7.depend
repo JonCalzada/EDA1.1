@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1539398066 source:c:\users\jonathan\desktop\practica 6\practica7\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"agenda.h"
+
+1539398908 c:\users\jonathan\desktop\practica 6\practica7\agenda.h
+
+1539399152 source:c:\users\jonathan\desktop\practica 6\practica7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"agenda.h"
+
+1539394466 source:d:\users\jonathan\desktop\escuela\2019-1\eda\laboratorio\practica7nomover\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"agenda.h"
+
+1539395308 d:\users\jonathan\desktop\escuela\2019-1\eda\laboratorio\practica7nomover\agenda.h
+

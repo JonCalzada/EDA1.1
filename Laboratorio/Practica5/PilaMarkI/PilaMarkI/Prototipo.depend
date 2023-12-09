@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1537425196 source:c:\users\luise\documents\estructura de datos y algoritmos\prototipo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+
+1537425161 c:\users\luise\documents\estructura de datos y algoritmos\prototipo\pila.h
+
+1537461386 source:d:\users\jonathan\desktop\escuela\2019-1\eda\laboratorio\practica5\pilamarki\pilamarki\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Pila.h"
+
+1537461388 d:\users\jonathan\desktop\escuela\2019-1\eda\laboratorio\practica5\pilamarki\pilamarki\pila.h
+

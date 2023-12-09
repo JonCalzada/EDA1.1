@@ -1,0 +1,22 @@
+comenzarRelleno, black
+circulo, 20, 5, blue
+terminarRelleno
+subirPluma
+mover, 120, 0, 1, black
+bajarPluma
+comenzarRelleno, black
+circulo, 20, 5, black
+terminarRelleno
+subirPluma
+mover, 150, 40, 1, black
+bajarPluma
+comenzarRelleno, yellow
+mover, -30, 40, 1, black
+mover, -30, 70, 1, black
+mover, 60, 70, 1, black
+mover, 60, 100, 1, black
+mover, 90, 100, 1, black
+mover, 115, 70, 1, black
+mover, 150, 70, 1, black
+mover, 150, 40, 1, black
+terminarRelleno
